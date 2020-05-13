@@ -155,7 +155,7 @@ h1 {
   justify-content: center;
 }
 
-.button-thing {
+  a .button-thing {
   padding: 8px 27px;
   background-color: #5448C8;
   color: #FFFFFF;
@@ -165,7 +165,6 @@ h1 {
   font-size: 16px;
   font-weight: 400;
 }
-
 /* Hero section*/
 
 .fa-bars {
