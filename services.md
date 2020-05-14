@@ -1,7 +1,6 @@
 ---
 layout: services
 title: Services
-permalink: none
 ---
 
 ## You're ready to go!
