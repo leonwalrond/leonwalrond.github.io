@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /
+permalink: none
 ---
 
 ## You're ready to go!
