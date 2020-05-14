@@ -1,7 +1,6 @@
 ---
-layout: index
+layout: default
 title: Home
-permalink: /
 ---
 
 ## You're ready to go!
