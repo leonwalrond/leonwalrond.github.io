@@ -131,7 +131,7 @@ h1 {
 
 @media screen and (max-width: 420px) {
   .text-container {
-    margin-top: 5rem;
+    margin-top: 6rem;
   }
 }
 
@@ -144,8 +144,14 @@ h1 {
   margin-bottom: 5px;
 }
 
+@media screen and (max-width: 468px) {
+  .main-title {
+    font-size: 30px;
+  }
+}
+
 .sub-title {
-  font-size: 20px;
+  font-size: 18px;
   width: 520px;
   max-width: 100%;
   color: #E2E2E2;
@@ -153,6 +159,12 @@ h1 {
   display: inline-block;
   align-items: center;
   justify-content: center;
+}
+
+@media screen and (max-width: 468px) {
+  .sub-title {
+    font-size: 16px;
+  }
 }
 
 .learn-more {
