@@ -457,7 +457,7 @@ h1 {
 .service-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  column-gap: 20px;
+  column-gap: 40px;
   width: 1000px;
   max-width: 95%;
   margin: 0 auto;
@@ -502,19 +502,10 @@ h1 {
   margin-bottom: 20px;
 }
 
-.service-4 {
-  height: 350px;
-  margin-bottom: 20px;
-}
-
-.service-5 {
-  height: 350px;
-  margin-bottom: 20px;
-}
 
 .service-icons {
   display: block;
-  height: 80px;
+  height: 110px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -535,4 +526,25 @@ h1 {
   line-height: 30px;
   margin-bottom: 25px;
 }
+
+.service-topics {
+  font-size: 17px;
+  color: #171717;
+  text-align: center;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+ul .list-service {
+  display: list-item;
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: circle;
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #171717;
+}
+
+
 /* Services */
