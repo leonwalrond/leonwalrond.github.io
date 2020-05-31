@@ -286,7 +286,7 @@ h1 {
   font-size: 20px;
   text-align: center;
   font-weight: 300;
-  color: #a8aaad;
+  color: #333333;
 }
 /* VISION AND ABOUT */
 .core-values-text-wrap {
@@ -438,7 +438,14 @@ h1 {
   max-width: 95%;
   margin: 0 auto;
   margin-top: 80px;
+  text-align: center;
 }
+
+.list-service {
+  text-align: center;
+  margin-top: 7px;
+}
+
 
 @media screen and (max-width: 1000px) {
   .service-grid {
