@@ -79,9 +79,10 @@ nav ul li.btn.hide i:before{
   content: '\f00d';
   margin: 0 8px;
 }
-@media all and (max-width: 900px){
+@media all and (max-width: 768px){
   nav{
     padding: 5px 30px;
+    background-color: green;
   }
   nav ul li.items{
     width: 100%;
@@ -117,7 +118,7 @@ nav ul li.btn.hide i:before{
   overflow: hidden;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
 
   nav ul li.items {
     display: none;
@@ -409,7 +410,7 @@ h1 {
   overflow: hidden;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1000px) {
 
   .fa-bars {
     color: #FFFFFF;
